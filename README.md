@@ -4,7 +4,7 @@ An api to manage paintings and artists.
 
 ## Getting Started
 
-Hello developers! To get started working on the Art API, please fork the repo and clone your fork using git and install the dependencies from NPM, like this:  
+Hello developers! To get started working on the Art API, please fork the repo, clone your fork locally using git, and install the dependencies from NPM, like this:  
 
 ```
 $ git clone [clone url] 
