@@ -28,7 +28,11 @@ Create a local **.env** file in your project to store environmental details that
   PORT=4000
   ```
 
-
+### Load sample data
+Load sample data to your database with the following command prompt commad:
+```
+$ npm run loadSampleData
+```
 
 ### Starting the api
 
@@ -39,7 +43,8 @@ $ cd [Project Directory]
 $ npm start
 ```
 
-## Endpoints
+
+# Endpoints
 
 
 
